@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kochamdziekana
 - 👀 I’m interested in .NET and GameDev
-- 🌱 I’m currently learning ASP.NET Core basics
+- 🌱 I’m currently learning Front-end basics
 - 💞️ I’m looking to collaborate on everything, I want to learn.
 - 📫 How to reach me ...
 
