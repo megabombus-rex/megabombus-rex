@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on evolutionary algorithms and meta-heuristic methods of solving optimization problems.<br>👯 I’m looking to collaborate on games and interesting projects from different fields.<br>🌱 I’m currently learning about Neuroevolutionary Algorithms and Python.
+🔭 I’m currently working on web development, meta-heuristic optimization and game development.<br>👯 I’m looking to collaborate on games and interesting projects from different fields.<br>🌱 I’m currently learning React with Typescript and Godot with .NET.
 
 
 ## 🌐 Socials:
