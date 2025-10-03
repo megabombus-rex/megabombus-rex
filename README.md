@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development, meta-heuristic optimization and game development.<br>👯 I’m looking to collaborate on games and interesting projects from different fields.<br>🌱 I’m currently learning React with Typescript and Godot with .NET.
+🔭 I’m currently working on web development, machine learning, game development.<br>👯 I have too many projects but will manage.<br>🌱 I’m currently learning about Pytorch, machine learning writing a game with Godot with .NET. Master thesis on the way.
 
 
 ## 🌐 Socials:
